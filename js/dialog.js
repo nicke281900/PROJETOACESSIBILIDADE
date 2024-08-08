@@ -1,4 +1,4 @@
-// Variáveis
+// Variaveis
 var btnAbreDialog = document.querySelector('#abreDialog');
 var dialog = document.querySelector('.dialogNewsletter');
 var dialogBody = document.querySelector('.dialogNewsletter-body');
