@@ -6,7 +6,7 @@
   transform: translate(-50%);
   text-align: center;
   width: 100%;
-  border-bottom: 1px solid #103d4a;
+  border-bottom: 1px solid #6f0543;
   padding-bottom: .5em
 }
 
@@ -39,7 +39,7 @@
 
 .cabecalho-nav-item a {
   text-decoration: none;
-  color: #fff;
+  color: #e78c0d;
   font-family: 'Open Sans', serif;
 
 }
