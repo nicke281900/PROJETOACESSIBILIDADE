@@ -23,7 +23,7 @@
 .contatoCampo-checkbox:checked + .contatoCampo-label:before {
   content: 'x';
   color: #fff;
-  background-image: radial-gradient(circle, #2DA4E7, #2F80ED);
+  background-image: radial-gradient(circle, #208d4a, #278d5a);
 }
 
 .contatoCampo-checkbox {
