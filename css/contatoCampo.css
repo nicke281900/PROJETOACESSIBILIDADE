@@ -12,9 +12,9 @@
   width: 20px;
   height: 20px;
   text-align: center;
-  background-color: #f0e588;
+  background-color: #dfcf40;
   transform: translate(-7px, -3px);
-  border: 1px solid #685604;
+  border: 1px solid #e2c13e;
   color: transparent;
   line-height: 1;
   transition: .2s ease-in;
@@ -23,7 +23,7 @@
 .contatoCampo-checkbox:checked + .contatoCampo-label:before {
   content: 'x';
   color: #fff;
-  background-image: radial-gradient(circle, #e9f3ed, #6ff8b4);
+  background-image: radial-gradient(circle, #2DA4E7, #2F80ED);
 }
 
 .contatoCampo-checkbox {
