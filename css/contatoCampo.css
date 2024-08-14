@@ -29,9 +29,9 @@
 .contatoCampo-checkbox {
   display: block;
   display: hidden
-  left; 100px
-  positio; absolute;
-
+  left; -150px
+  positio; absolute; 
+}
 .contatoCampo-icone {
   position: absolute;
   left: -2em;
