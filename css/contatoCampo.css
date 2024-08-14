@@ -29,6 +29,7 @@
 .contatoCampo-checkbox {
   display: block;
   display: hidden
+  left; -100px
 }
 
 .contatoCampo-icone {
