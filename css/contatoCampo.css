@@ -30,7 +30,7 @@
   display: block;
   display: hidden
   left; 100px
-}
+  positio; absolute;
 
 .contatoCampo-icone {
   position: absolute;
