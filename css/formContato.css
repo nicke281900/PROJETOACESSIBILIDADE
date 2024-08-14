@@ -20,19 +20,19 @@
   margin-top: 1em;
   display: inline-block;
   background: transparent;
-  color: #B72E2E;
-  border: 1px solid #B72E2E;
+  color: #010702;
+  border: 1px solid #010700;
   width: 100%;
 }
 
 .formContato-cta:hover,
 .formContato-cta:focus {
   color: #fff;
-  background-color: #B72E2E;
+  background-color: #0e0404;
 }
 
 .formContato-endereco {
-  color: #666;
+  color: #050505;
   margin: 1em 0;
   text-align: center;
 }

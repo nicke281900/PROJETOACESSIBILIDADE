@@ -15,7 +15,7 @@ li[aria-hidden='false'] { display:block ; }
 
 .overlayDialog:before {
   content: '';
-  background-color: rgba(0, 0, 0, .4);
+  background-color: rgb(234, 241, 237);
   position: fixed;
   z-index: 2;
   display: block;
@@ -59,7 +59,7 @@ li[aria-hidden='false'] { display:block ; }
 .tituloPadrao {
   font-family: 'Montserrat', serif;
   margin-bottom: 1em;
-  color: #4F4C4C;
+  color: #020000;
   text-align: center;
   text-transform: uppercase;
 }
@@ -67,8 +67,8 @@ li[aria-hidden='false'] { display:block ; }
 .btnPadrao {
   border-radius: 5px;
   border: 0;
-  background-color: #B72E2E;
-  color: #fff;
+  background-color: #070707;
+  color: #050505;
   font-size: 1.2em;
   padding: .3em 1em;
   font-family: 'Open Sans', 'Segoe UI', sans-serif;
@@ -78,7 +78,7 @@ li[aria-hidden='false'] { display:block ; }
 
 .btnPadrao:hover,
 .btnPadrao:focus {
-  background-image: linear-gradient(rgba(255, 255, 255, .05), rgba(255, 255, 255, .05));
+  background-image: linear-gradient(rgba(5, 5, 5, 0.952), rgba(0, 0, 0, 0.979));
   cursor: pointer;
 }
 

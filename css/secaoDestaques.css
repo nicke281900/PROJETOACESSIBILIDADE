@@ -1,5 +1,5 @@
 .secaoDestaques {
-  background-color: #DCEDF5;
+  background-color: #9514bd;
   text-align: center;
 }
 
@@ -20,7 +20,7 @@
 
 .secaoDestaques-link:hover,
 .secaoDestaques-link:focus {
-  background-color: #fff;
+  background-color: #f8faf9;
   cursor: pointer;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, .3); 
@@ -48,14 +48,14 @@
   display: block;
   margin: 0 auto;
   background: transparent;
-  color: #B72E2E;
-  border: 1px solid #B72E2E;
+  color: #0a0505;
+  border: 1px solid #0f0909;
 }
 
 .secaoDestaques-form-botao:hover,
 .secaoDestaques-form-botao:focus {
   color: #fff;
-  background-color: #B72E2E;
+  background-color: #030000;
 }
 
 
