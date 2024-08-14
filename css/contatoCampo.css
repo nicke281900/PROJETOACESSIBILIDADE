@@ -28,6 +28,7 @@
 
 .contatoCampo-checkbox {
   display: block;
+  display: hidden;
 }
 
 .contatoCampo-icone {
